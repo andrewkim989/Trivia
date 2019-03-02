@@ -1,0 +1,54 @@
+#wrapper {
+  background-color: rgb(235, 233, 233);
+  padding: 20px;
+}
+#start {
+  width: 600px;
+  height: 550px;
+  text-align: center;
+}
+#start button {
+  margin: 30px;
+  font-size: 32px;
+}
+#trivia {
+  margin: auto;
+  width: 600px;
+  margin-top: 50px;
+}
+#top h2 {
+  display: inline-block;
+  vertical-align: top;
+}
+#score {
+  float: right;
+  vertical-align: top;
+}
+.card {
+  margin: auto;
+  padding: 10px;
+  padding-bottom: 25px;
+}
+.timelow {
+  color: red;
+}
+#answers {
+  margin: 15px auto;
+  width: 600px;
+}
+#answers button {
+  margin: 10px;
+}
+#result {
+  text-align: center;
+  margin: 15px;
+}
+#complete {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  height: 550px;
+}
+#complete button {
+  margin: 25px 0px;
+}
